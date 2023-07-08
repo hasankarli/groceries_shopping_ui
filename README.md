@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Groceries Shopping Ui</h1>
-
+# Groceries Shopping Ui
 This Flutter project is based on the following [[Flutter UI Dev Challenge]](https://www.flutteruidev.tech/ui-challenges/flutter-ui-challenge-15)
+
 
   
 <img align=top src="https://github.com/hasankarli/groceries_shopping_ui/blob/main/app-preview.gif" width="231" height="500"/>   
