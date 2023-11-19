@@ -21,7 +21,3 @@ I would like to thank the source. I referred to while working on this [[Project]
 
 <img align="left" src = "https://profile-counter.glitch.me/groceries_shopping_ui/count.svg" alt ="Loading">
 
-
-
-
-Test
